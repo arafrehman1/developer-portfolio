@@ -64,3 +64,15 @@ span {
     padding-left: 20px;
     border-radius: 10px;
 }
+
+#full-stack-developaer {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
